@@ -42,8 +42,7 @@ dependencies {
 test {     
  useTestNG() {      
       useDefaultListeners = true      
-      suiteXmlFilesm << new File("testng.xml")    
-      setSuiteXmlFiles(suiteXmlFiles)    
+      suites 'testng.xml'          
     }
 }
 

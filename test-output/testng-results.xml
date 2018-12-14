@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="3191" started-at="2018-11-18T02:03:40Z" finished-at="2018-11-18T02:03:43Z">
+  <suite name="Suite" duration-ms="5119" started-at="2018-12-14T01:34:32Z" finished-at="2018-12-14T01:34:37Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="3191" started-at="2018-11-18T02:03:40Z" finished-at="2018-11-18T02:03:43Z">
+    <test name="Test" duration-ms="5119" started-at="2018-12-14T01:34:32Z" finished-at="2018-12-14T01:34:37Z">
       <class name="tests.sampleTestJenkins">
-        <test-method status="PASS" signature="SetupScripts()[pri:0, instance:tests.sampleTestJenkins@eafc191]" name="SetupScripts" is-config="true" duration-ms="976" started-at="2018-11-18T02:03:40Z" finished-at="2018-11-18T02:03:41Z">
+        <test-method status="PASS" signature="SetupScripts()[pri:0, instance:tests.sampleTestJenkins@eafc191]" name="SetupScripts" is-config="true" duration-ms="1838" started-at="2018-12-14T01:34:32Z" finished-at="2018-12-14T01:34:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetupScripts -->
-        <test-method status="PASS" signature="createDriver()[pri:0, instance:tests.sampleTestJenkins@eafc191]" name="createDriver" is-config="true" duration-ms="1303" started-at="2018-11-18T02:03:41Z" finished-at="2018-11-18T02:03:42Z">
+        <test-method status="PASS" signature="createDriver()[pri:0, instance:tests.sampleTestJenkins@eafc191]" name="createDriver" is-config="true" duration-ms="2032" started-at="2018-12-14T01:34:34Z" finished-at="2018-12-14T01:34:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createDriver -->
-        <test-method status="PASS" signature="testMyApp()[pri:0, instance:tests.sampleTestJenkins@eafc191]" name="testMyApp" duration-ms="338" started-at="2018-11-18T02:03:42Z" finished-at="2018-11-18T02:03:42Z">
+        <test-method status="PASS" signature="testMyApp()[pri:0, instance:tests.sampleTestJenkins@eafc191]" name="testMyApp" duration-ms="663" started-at="2018-12-14T01:34:36Z" finished-at="2018-12-14T01:34:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMyApp -->
-        <test-method status="PASS" signature="destroyDriver()[pri:0, instance:tests.sampleTestJenkins@eafc191]" name="destroyDriver" is-config="true" duration-ms="562" started-at="2018-11-18T02:03:42Z" finished-at="2018-11-18T02:03:43Z">
+        <test-method status="PASS" signature="destroyDriver()[pri:0, instance:tests.sampleTestJenkins@eafc191]" name="destroyDriver" is-config="true" duration-ms="570" started-at="2018-12-14T01:34:37Z" finished-at="2018-12-14T01:34:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- destroyDriver -->
